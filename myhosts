@@ -16,3 +16,9 @@
 [myDBservers]
 172.31.5.2
 172.31.14.4
+
+
+[mywebservers:vars]
+myvar= value
+mywebpackforubuntu= apache22222222222222222222222222
+mywebpackforredhat= httpd
